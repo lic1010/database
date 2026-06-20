@@ -9,7 +9,7 @@
 [操作影片]https://youtu.be/3wdRkb2WcKg
 
 ### 資料庫關聯圖 
-![ER Diagram]([完整ER圖.drawio (1).png](https://github.com/lic1010/database/blob/main/%E5%AE%8C%E6%95%B4ER%E5%9C%96.drawio%20(1).png))
+![ER Diagram](images/完整ER圖.drawio.png)
 
 ##心得
 
