@@ -11,7 +11,7 @@
 ### 資料庫關聯圖 
 ![ER Diagram]([完整ER圖](https://github.com/lic1010/database/blob/main/images/%E5%AE%8C%E6%95%B4ER%E5%9C%96.drawio%20(1).png))
 
-### 心得
+
 
 			
 
